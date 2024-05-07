@@ -18,4 +18,4 @@ The code is still a mess but has been used so it does work. Of course modificati
 
 You may have a litle trouble understanding some functions that accept other functions as parameters. It's functions determining the path and carrying over other functions that define tasks to be done on one path or another. The goal is to keep to the DRY principle and allow the code to be extensible.
 
-<img src="trainontrain3.png" alt="image" width="300" height="auto">
+![alt text](trainontrain3.png)
