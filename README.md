@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a repo used to share code written to make migrations checks easier for a network upgrade from legacy to SDA. The text describing the use case is at <replace with url>
+This is a repo used to share code written to make migrations checks easier for a network upgrade from legacy to SDA. The text describing the use case is at [this blog post](https://www.mythryll.com/?p=1976)
 
 ## Nautobot version
 
