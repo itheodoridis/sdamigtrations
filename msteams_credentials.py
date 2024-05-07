@@ -1,0 +1,1 @@
+msteams_webhook_url = "https://yourmsteamschannelwebhookurl"
